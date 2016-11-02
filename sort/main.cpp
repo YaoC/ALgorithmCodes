@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sort/quick_sort.h"
+#include "./quick_sort.h"
 
 using namespace std;
 
